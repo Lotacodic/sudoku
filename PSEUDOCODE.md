@@ -26,7 +26,7 @@ FUNCTION isValid(grid, row, col, num):
 ## 🟦 2. isValid
 
 ```text
-    FUNCTION isGridValid(grid):
+FUNCTION isGridValid(grid):
 
     FOR i FROM 0 TO 8:
         FOR j FROM 0 TO 8:
