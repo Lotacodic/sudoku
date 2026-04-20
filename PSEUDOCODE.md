@@ -22,6 +22,7 @@ FUNCTION isValid(grid, row, col, num):
 
     RETURN true
 
+------
 
 ## 🟦 2. isValid
 
